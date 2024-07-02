@@ -1,6 +1,6 @@
-Drum Kit Project
+**Drum Kit Project**
 
-Description
+*Description*
 This project is a web-based drum kit application that allows users to play a virtual drum set. The application features a visually appealing design with animations and sound effects.
 
 Features
@@ -22,3 +22,4 @@ Try to follow the sequence of drums to play a song
 If you make a mistake, the game-over feature will trigger
 Customization
 The drum kit is fully customizable using CSS. You can modify the styles.css file to change the appearance and layout of the drum kit.
+
